@@ -1,6 +1,6 @@
 import 'package:dart_2/shared/helper_methods.dart';
-import 'package:dart_2/shared/order.dart';
-import 'package:dart_2/shared/payment.dart';
+import 'package:dart_2/solid/shared/order.dart';
+import 'package:dart_2/solid/shared/payment.dart';
 
 class PaymentProcessors {
   void processPayment(Order order, Payment payment) {
